@@ -1,0 +1,17 @@
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\obj\Debug\net6.0-windows\Web_Calculadora.csproj.AssemblyReference.cache
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\obj\Debug\net6.0-windows\Web_Calculadora.Form1.resources
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\obj\Debug\net6.0-windows\Web_Calculadora.csproj.GenerateResource.cache
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\obj\Debug\net6.0-windows\Web_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\obj\Debug\net6.0-windows\Web_Calculadora.AssemblyInfoInputs.cache
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\obj\Debug\net6.0-windows\Web_Calculadora.AssemblyInfo.cs
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\obj\Debug\net6.0-windows\Web_Calculadora.csproj.CoreCompileInputs.cache
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\bin\Debug\net6.0-windows\Web_Calculadora.exe
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\bin\Debug\net6.0-windows\Web_Calculadora.deps.json
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\bin\Debug\net6.0-windows\Web_Calculadora.runtimeconfig.json
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\bin\Debug\net6.0-windows\Web_Calculadora.dll
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\bin\Debug\net6.0-windows\ref\Web_Calculadora.dll
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\bin\Debug\net6.0-windows\Web_Calculadora.pdb
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\obj\Debug\net6.0-windows\Web_Calculadora.dll
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\obj\Debug\net6.0-windows\ref\Web_Calculadora.dll
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\obj\Debug\net6.0-windows\Web_Calculadora.pdb
+C:\ARCHIVOS LESLIE\trabajos personales\Abril\PROGRAMANDO CALCULADORA en C# - Windows Forms App\Web_Calculadora\Web_Calculadora\obj\Debug\net6.0-windows\Web_Calculadora.genruntimeconfig.cache
